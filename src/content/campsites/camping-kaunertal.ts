@@ -71,7 +71,7 @@ const campingKaunertal: CampsiteConfig = {
   saison: { von: "Mai", bis: "Oktober" },
 
   hero: {
-    aerial: { src: `${IMG}/gallery-82f663bef6.webp`, alt: "Campingplatz Kaunertal auf der Wiese vor verschneiter Bergkulisse" },
+    aerial: { src: `${IMG}/gallery-82f663bef6.webp`, alt: "Campingplatz Kaunertal auf der Sommerwiese — Stellplätze zwischen Waldrand und Tiroler Bergpanorama" },
   },
 
   camping: {
@@ -82,7 +82,7 @@ const campingKaunertal: CampsiteConfig = {
       {
         title: "Stellplätze auf der Wiese",
         text: "45 ebene Rasenstellplätze liegen ruhig zwischen unverbauten Wiesen und dem Waldrand — Strom ist inklusive.",
-        image: { src: `${IMG}/gallery-96d63d6cde.webp`, alt: "Blick über den Campingplatz Kaunertal mit Stellplätzen und Hotel" },
+        image: { src: `${IMG}/gallery-9b55bfa2fd.webp`, alt: "Sommer auf dem Campinggelände beim Hotel Weisseespitze — unverbaute Wiesen und Waldrand vor dem Bergpanorama" },
       },
       {
         title: "Frühstück & Abendessen im Hotel",
@@ -98,7 +98,7 @@ const campingKaunertal: CampsiteConfig = {
   },
 
   breather: {
-    image: { src: `${IMG}/hero-a6e13eb3ce.webp`, alt: "Blick über Wiesen und Wald im Kaunertal" },
+    image: { src: `${IMG}/hero-a6e13eb3ce.webp`, alt: "Ausblick vom Balkon des Hotel Weisseespitze auf Wald und Wiesen im Kaunertal" },
     line: "Ringsum nur Wiesen, Wald und Berge.",
   },
 
