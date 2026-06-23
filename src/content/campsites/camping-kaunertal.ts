@@ -82,7 +82,7 @@ const campingKaunertal: CampsiteConfig = {
       {
         title: "Stellplätze auf der Wiese",
         text: "45 ebene Rasenstellplätze liegen ruhig zwischen unverbauten Wiesen und dem Waldrand — Strom ist inklusive.",
-        image: { src: `${IMG}/gallery-9b55bfa2fd.webp`, alt: "Sommer auf dem Campinggelände beim Hotel Weisseespitze — unverbaute Wiesen und Waldrand vor dem Bergpanorama" },
+        image: { src: `${IMG}/gallery-96d63d6cde.webp`, alt: "Blick auf den Campingplatz Kaunertal am Hotel Weisseespitze — Zelte und Wohnmobil auf der Sommerwiese" },
       },
       {
         title: "Frühstück & Abendessen im Hotel",
